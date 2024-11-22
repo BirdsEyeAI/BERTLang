@@ -1,5 +1,5 @@
 # BERTLang
-Full-scope Exploratory Data Analysis using NLP and the BERT Large Language Model 
+Full-scope Exploratory Data Analysis using the BERT Large Language Model and modern NLP techniques. 
 
 <h2>Tech Stack</h2>
 
