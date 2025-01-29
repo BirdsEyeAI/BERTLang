@@ -15,3 +15,5 @@ This repo is meant to provide an example of you can use the BERT LLM with NLP to
 This process will cover data cleaning and preprocessing, wordclouds, named entity recognition, and more to come. 
 
 <h2>Features</h2>
+
+<h2>Enhancements</h2>
