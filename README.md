@@ -1,5 +1,5 @@
 # BERTLang
-Full-scope Exploratory Data Analysis using the BERT Large Language Model and modern NLP techniques to dive into datasets. 
+Full-scope Exploratory Data Analysis (EDA) leveraging the BERT Large Language Model and modern NLP techniques to dive into datasets. 
 
 <h2>Tech Stack</h2>
 Python
